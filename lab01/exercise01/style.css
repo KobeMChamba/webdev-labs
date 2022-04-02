@@ -9,3 +9,13 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+
+div {
+    /* background: beige; */
+    width: 300px;
+    margin: 0 auto;
+}
+
+.content-wrap {
+    margin: 0 auto;
+}
