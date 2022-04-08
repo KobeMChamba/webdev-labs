@@ -10,6 +10,11 @@ body {
 Add some style blocks below this line to style the card.
 */
 
+section {
+    width: 350;
+    border: solid 1px #CCC;
+}
+
 div {
     /* background: beige; */
     width: 300px;
